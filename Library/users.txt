@@ -1,0 +1,6 @@
+FileID	UserID	Priority	Access (You can specify multiple users in a single line)(1st entry in each line is the file ID)
+32451	17	21	W	18	22	W	19	23	R
+32452	76	20	W	21	22	W	22	23	R
+32453	89	19	R	21	22	W	23	23	R
+32454	45	18	W	24	22	W	27	23	R
+32455	36	17	R	31	22	W	30	23	R

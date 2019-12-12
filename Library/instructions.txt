@@ -1,0 +1,4 @@
+1. File Id is a number between 5000-99999
+2. User Id is an integer in a range 0-10000
+3. Priority is an integer in a range 0-100
+4. File Access is a character R or W
